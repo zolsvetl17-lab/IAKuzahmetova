@@ -23,7 +23,7 @@ Book Tracker — это графическое приложение для уч�
 
 1. Клонируйте репозиторий:
 ```
-git clone <URL-вашего-репозитория>
+git clone https://github.com/zolsvetl17-lab/IAKuzahmetova.git
 cd Book-Tracker
 ```
 2. Убедитесь, что у вас установлен Python 3.6+. Проверить версию можно командой:
